@@ -5,13 +5,12 @@
         "php": ">=7.1.3",
         "ext-ctype": "*",
         "ext-iconv": "*",
+        "lexik/jwt-authentication-bundle": "^2.16",
         "symfony/console": "*",
         "symfony/dotenv": "*",
         "symfony/flex": "^1.3.1",
         "symfony/framework-bundle": "*",
         "symfony/yaml": "*"
-    },
-    "require-dev": {
     },
     "config": {
         "allow-plugins": {
