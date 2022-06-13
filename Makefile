@@ -11,4 +11,4 @@ list-make:
 	symfony console list make
 
 controller-make:
-	symfony console make:controller ConferenceController
+	symfony console make:controller DefaultController
